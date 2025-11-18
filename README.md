@@ -35,7 +35,7 @@ I enjoy finding defects, improving user experience, and designing test processes
 ### 🧭 **Urban Routes — Web Testing**
 Web regression and UI testing for a route-planning application.  
 **Skills:** Manual Testing, SQL Validation, Test Case Design, Bug Reporting  
-🔗 *Repo:* (coming soon)  
+🔗 *Repo:* (https://github.com/anyellyfr/urban-routes-web-testing/tree/main) 
 
 ---
 
