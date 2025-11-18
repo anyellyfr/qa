@@ -1,4 +1,4 @@
-# qa
+# QA Engineer Portfolio
 Personal QA Portfolio – Manual and Automation Testing Projects
 # 👋 Hi, I'm Anyelly Natalia Flórez  
 ### **QA Engineer | Manual & Automation Testing | Web | Mobile | API**
