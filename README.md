@@ -49,7 +49,7 @@ REST API validation + automation scripts with Pytest to improve regression speed
 ### 🍔 **Urban Lunch — Mobile Testing**
 Functional and exploratory testing of a mobile food delivery app using Android Studio.  
 **Skills:** Mobile Testing, UI Validation, Test Documentation  
-🔗 *Repo:* (coming soon)
+🔗 *Repo:* (https://github.com/anyellyfr/URBAN-LUNCH-Mobile-Testing/tree/main)
 
 ---
 
