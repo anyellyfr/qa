@@ -56,12 +56,11 @@ Functional and exploratory testing of a mobile food delivery app using Android S
 ### 🛵 **Scooter — End-to-End QA**
 Full product validation: Web + Mobile + API + Database testing.  
 **Skills:** E2E Testing, SQL, Automation, Documentation  
-🔗 *Repo:* (coming soon)
+🔗 *Repo:* (https://github.com/anyellyfr/SCOOTER-Full-End-to-End-Testing/tree/main)
 
 ---
 
 ## 🎯 **What I'm Working On**
-- Building a complete QA portfolio with real-world testing examples  
 - Expanding my automation skills in Selenium & Pytest  
 - Preparing for my first full-time QA Automation role  
 - Improving my Git/GitHub workflows to collaborate with engineering teams  
