@@ -70,5 +70,5 @@ Full product validation: Web + Mobile + API + Database testing.
 
 ## 🤝 **Let’s Connect**
 📫 Email: **nataliaflorezromero@gmail.com**  
-💼 LinkedIn: *(add link when ready)*  
+💼 LinkedIn: *(https://www.linkedin.com/in/anyelly-natalia-fl%C3%B3rez-a15489bb/)*  
 🌍 Location: Bogotá, Colombia  
