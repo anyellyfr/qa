@@ -42,7 +42,7 @@ Web regression and UI testing for a route-planning application.
 ### 🛒 **Urban Grocers — API & Automation**
 REST API validation + automation scripts with Pytest to improve regression speed.  
 **Skills:** API Testing, Automation, Python, Postman, Git  
-🔗 *Repo:* (coming soon)
+🔗 *Repo:* (https://github.com/anyellyfr/URBAN-GROCERS-API-Automation-Project)
 
 ---
 
